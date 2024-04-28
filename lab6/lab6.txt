@@ -1,0 +1,34 @@
+2024-04-29 01:42:52 INFO (main:55) Start
+2024-04-29 01:42:52 INFO (producer:36) PRODUCER: Полученные производителем данные от h/w = 0 
+2024-04-29 01:42:52 INFO (producer:38) PRODUCER: WP1
+2024-04-29 01:42:52 INFO (producer:46) PRODUCER: WP3
+2024-04-29 01:42:52 INFO (producer:36) PRODUCER: Полученные производителем данные от h/w = 1 
+2024-04-29 01:42:52 INFO (producer:38) PRODUCER: WP1
+2024-04-29 01:42:52 INFO (producer:41) PRODUCER: WP2
+2024-04-29 01:42:53 INFO (consumer:17) CONSUMER: W1
+2024-04-29 01:42:53 INFO (consumer:24) CONSUMER: Полученные потребителем данные = 1 
+2024-04-29 01:42:53 INFO (producer:46) PRODUCER: WP3
+2024-04-29 01:42:53 INFO (producer:36) PRODUCER: Полученные производителем данные от h/w = 2 
+2024-04-29 01:42:53 INFO (producer:38) PRODUCER: WP1
+2024-04-29 01:42:53 INFO (producer:41) PRODUCER: WP2
+2024-04-29 01:42:54 INFO (consumer:17) CONSUMER: W1
+2024-04-29 01:42:54 INFO (consumer:24) CONSUMER: Полученные потребителем данные = 2 
+2024-04-29 01:42:54 INFO (producer:46) PRODUCER: WP3
+2024-04-29 01:42:54 INFO (producer:36) PRODUCER: Полученные производителем данные от h/w = 3 
+2024-04-29 01:42:54 INFO (producer:38) PRODUCER: WP1
+2024-04-29 01:42:54 INFO (producer:41) PRODUCER: WP2
+2024-04-29 01:42:55 INFO (consumer:17) CONSUMER: W1
+2024-04-29 01:42:55 INFO (consumer:24) CONSUMER: Полученные потребителем данные = 3 
+2024-04-29 01:42:55 INFO (producer:46) PRODUCER: WP3
+2024-04-29 01:42:55 INFO (producer:36) PRODUCER: Полученные производителем данные от h/w = 4 
+2024-04-29 01:42:55 INFO (producer:38) PRODUCER: WP1
+2024-04-29 01:42:55 INFO (producer:41) PRODUCER: WP2
+2024-04-29 01:42:56 INFO (consumer:17) CONSUMER: W1
+2024-04-29 01:42:56 INFO (consumer:24) CONSUMER: Полученные потребителем данные = 4 
+2024-04-29 01:42:56 INFO (producer:46) PRODUCER: WP3
+2024-04-29 01:42:56 INFO (producer:36) PRODUCER: Полученные производителем данные от h/w = 5 
+2024-04-29 01:42:56 INFO (producer:38) PRODUCER: WP1
+2024-04-29 01:42:56 INFO (producer:41) PRODUCER: WP2
+2024-04-29 01:42:57 INFO (consumer:17) CONSUMER: W1
+2024-04-29 01:42:57 INFO (consumer:24) CONSUMER: Полученные потребителем данные = 5 
+2024-04-29 01:42:57 INFO (producer:46) PRODUCER: WP3
