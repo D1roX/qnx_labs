@@ -1,0 +1,12 @@
+2024-04-29 01:47:14 INFO (process_2:158) (2) Previous value: 33
+
+2024-04-29 01:47:14 INFO (process_2:163) (2) Result: 23
+
+2024-04-29 01:47:14 INFO (thread_1:204) First lock
+
+2024-04-29 01:47:16 INFO (thread_1:206) First unlock
+
+2024-04-29 01:47:16 INFO (thread_2:217) Second lock
+
+2024-04-29 01:47:18 INFO (thread_2:219) Second unlock
+
